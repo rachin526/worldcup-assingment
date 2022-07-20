@@ -1,0 +1,18 @@
+.fixture {
+    display: flex;
+    justify-content: center;
+    ;
+    align-items: center;
+    width: 80%;
+    margin: 18px auto;
+}
+
+.inf {
+    padding-bottom: 10px;
+}
+
+
+
+.fixture span {
+    margin: 0 12px;
+}
