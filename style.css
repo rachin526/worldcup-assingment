@@ -1,0 +1,64 @@
+/* google font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+/* header design start from here */
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.header-content {
+    display: flex;
+    background: #161616;
+    width: 75%;
+    border-radius: 30px;
+    padding: 40px 85px;
+    align-items: center;
+}
+
+.header-content-left,
+.header-content-right {
+    width: 50%;
+}
+
+.header-content-left h1 {
+    color: #fff;
+    font-size: 60px;
+    margin: 10px 0;
+    line-height: 70px;
+}
+
+.header-content-left p {
+    color: #fff;
+    font-size: 15px;
+}
+
+.header-content-right img {
+    width: 100%;
+    position: relative;
+    top: 47px;
+}
+
+.button {
+    background: #DD0000;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    padding: 12px 25px;
+    border-radius: 7px;
+    margin-top: 18px;
+}
+
+.fa-angle-right {
+    padding-left: 15px;
+}
+
+/* header design end here */
+/* main area design start from here */
